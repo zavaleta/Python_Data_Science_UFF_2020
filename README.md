@@ -9,7 +9,7 @@
 * Python_Data_Science_UFF_2020_M1.ipynb
 
 # Módulo 2: Aula 2 - NumPy
-
+* Python_Data_Science_UFF_2020_M2.ipynb
 # Módulo 3: Aula 3 - Pandas
 
 # Módulo 4: Aula 4 - Gráficos
