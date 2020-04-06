@@ -6,7 +6,7 @@
 ---
 # Módulo 1: Aula 1 - Introdução a Python para Data Science
 * Aula1: [Introdução](Python_Data_Science_UFF_02-2020_01.pdf)
-* Aula1: [Python para Data Science](Python_Data_Science_UFF_2020_M1.ipynb).
+* Aula1: [Python Básico para Data Science](Python_Data_Science_UFF_2020_M1.ipynb).
 
 # Módulo 2: Aula 2 - NumPy
 * Aula 2: [Numpy](Python_Data_Science_UFF_2020_M2.ipynb)
