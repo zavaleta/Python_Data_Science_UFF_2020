@@ -6,7 +6,6 @@
 ---
 # Módulo 1: Aula 1 - Introdução a Python para Data Science
 * Aula1: [Introdução](Python_Data_Science_UFF_02-2020_01.pdf)
-* https://github.com/zavaleta/Python_Data_Science_UFF_2020/blob/master/Python_Data_Science_UFF_02-2020_01.pdf
 * Aula1: [Python para Data Science](Python_Data_Science_UFF_2020_M1.ipynb).
 
 # Módulo 2: Aula 2 - NumPy
