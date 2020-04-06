@@ -1,12 +1,13 @@
 # Python para Data Science
 ## UFF 2020
-### Prof. Dr. Jorge Zavaleta
+### Prof. Jorge Zavaleta, DSc.
 #### zavaleta.jorge@gmail.com
 ##### Niterói, 17 ao 20 de fevreiro de 2020
 ---
 # Módulo 1: Aula 1 - Introdução a Python para Data Science
 * Python_para_Data_Science_UFF_02-2020_01.pdf
 * Python_Data_Science_UFF_2020_M1.ipynb
+* [Python para Data Science](Python_Data_Science_UFF_2020_M1.ipynb).
 
 # Módulo 2: Aula 2 - NumPy
 * Python_Data_Science_UFF_2020_M2.ipynb
